@@ -2,7 +2,7 @@
 
 # Конфигурация
 pip install -r requirements.txt
-Для задания 3 - 
+* Для задания 3:
 ```bash
 cd task_3 
 make install
